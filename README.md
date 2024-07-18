@@ -37,12 +37,7 @@
 
 ## Clone the repository:
 
-👉 Github streaming link  : 
-
 👉 Netlify streaming link  : https://managelandingclone.netlify.app/
-
-📺 Vercel streaming link : 
-
 
 # Usage
 
