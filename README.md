@@ -39,9 +39,9 @@
 
 👉 Github streaming link  : 
 
-👉 Netlify streaming link  :
+👉 Netlify streaming link  : https://managelandingclone.netlify.app/
 
-📺 Vercel streaming link : https://managelandingclone.netlify.app/
+📺 Vercel streaming link : 
 
 
 # Usage
