@@ -1,9 +1,16 @@
-# Manage-Landingpage
- The Manage Landing Page is designed to provide a seamless user experience with a focus on usability and aesthetics. Utilizing the power of Tailwind CSS for rapid styling, this project demonstrates how to create an attractive and functional landing page that adapts to various devices and screen sizes.
+
+ 
+
+<h1 align="center">Hi 👋, I'm Kathirviswa V</h1>
+<h3 align="center">A passionate Frontend developer</h3>                                  
+<img  alt="Loan Calculator" width="100%" src="./img/screen.png">
+
 
 # Tailwind Manage Landing Page
 
-This is the project from my 2022 Tailwind Crash Course on YouTube.
+❗This is the project from my 2024 Tailwind Crash Course on YouTube.
+
+ 👉The Manage Landing Page is designed to provide a seamless user experience with a focus on usability and aesthetics. Utilizing the power of Tailwind CSS for rapid styling, this project demonstrates how to create an attractive and functional landing page that adapts to various devices and screen sizes.
 
 ![Alt text](/img/screen.png?raw=true)
 
