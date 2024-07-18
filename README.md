@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Kathirviswa V</h1>
 <h3 align="center">A passionate Frontend developer</h3>                                  
-<img  alt="Loan Calculator" width="100%" src="./img/screen.png">
+<img  alt="Manage-landing-page-main" width="100%" src="./img/screen.png">
 
 
 # Tailwind Manage Landing Page
